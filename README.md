@@ -233,6 +233,13 @@ forEachRight( arr, log );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/for-each`][@stdlib/utils/for-each]: invoke a function for each element in a collection.
+-   [`@stdlib/utils/async/for-each-right`][@stdlib/utils/async/for-each-right]: invoke a function once for each element in a collection, iterating from right to left.
+
 </section>
 
 <!-- /.related -->
@@ -301,6 +308,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [mdn-object]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
 
 [mdn-array-foreach]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+
+<!-- <related-links> -->
+
+[@stdlib/utils/for-each]: https://github.com/stdlib-js/utils-for-each
+
+[@stdlib/utils/async/for-each-right]: https://github.com/stdlib-js/utils-async-for-each-right
+
+<!-- </related-links> -->
 
 </section>
 
