@@ -20,7 +20,7 @@ limitations under the License.
 
 # forEachRight
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Invoke a function for each element in a collection, iterating from the right to left.
 
@@ -237,8 +237,8 @@ forEachRight( arr, log );
 
 ## See Also
 
--   [`@stdlib/utils/for-each`][@stdlib/utils/for-each]: invoke a function for each element in a collection.
--   [`@stdlib/utils/async/for-each-right`][@stdlib/utils/async/for-each-right]: invoke a function once for each element in a collection, iterating from right to left.
+-   <span class="package-name">[`@stdlib/utils/for-each`][@stdlib/utils/for-each]</span><span class="delimiter">: </span><span class="description">invoke a function for each element in a collection.</span>
+-   <span class="package-name">[`@stdlib/utils/async/for-each-right`][@stdlib/utils/async/for-each-right]</span><span class="delimiter">: </span><span class="description">invoke a function once for each element in a collection, iterating from right to left.</span>
 
 </section>
 
@@ -289,8 +289,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-for-each-right/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-for-each-right?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-for-each-right.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-for-each-right/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
