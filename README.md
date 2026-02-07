@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-each-right@deno/mod.js';
+import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-each-right@v0.2.3-deno/mod.js';
 ```
 
 #### forEachRight( collection, fcn\[, thisArg ] )
@@ -196,7 +196,7 @@ var mean = context.sum / context.count;
 
 ```javascript
 var isEven = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-even' ).isPrimitive;
-import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-each-right@deno/mod.js';
+import forEachRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-for-each-right@v0.2.3-deno/mod.js';
 
 var arr;
 var i;
